@@ -2,6 +2,16 @@
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
+## Todo
+
+- [ ] Make it deploy (vercel)
+- [ ] Scaffold basic ui with mock data
+- [ ] Acutally setup a db (with Postgres)
+- [ ] Attach db to UI
+- [ ] Add Auth (w/ Clerk)
+- [ ] Add Image Upload
+- [ ] Error Management (w/ Sentry)
+
 ## What's next? How do I make an app with this?
 
 We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
