@@ -4,9 +4,9 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 
 ## Todo
 
-- [ ] Make it deploy (vercel)
+- [x] Make it deploy (vercel)
 - [ ] Scaffold basic ui with mock data
-- [ ] Acutally setup a db (with Postgres)
+- [x] Acutally setup a db (with Postgres)
 - [ ] Attach db to UI
 - [ ] Add Auth (w/ Clerk)
 - [ ] Add Image Upload
